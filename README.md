@@ -71,6 +71,3 @@ Testovali jsme řadící algoritmy na sadách dat různých velikostí a porovn�
 | Srovnaná velmi velká| 100000   |
 | Náhodná gigantická | 1000000   |
 | Srovnaná gigantická| 1000000   |
-
-
-
